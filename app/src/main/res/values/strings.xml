@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">DroidWiki</string>
+
+  <string name="search_hint">Search on Wikipedia</string>
+
+  <string name="error">An error occurred. Retry later</string>
+</resources>
